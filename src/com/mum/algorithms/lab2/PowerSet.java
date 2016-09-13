@@ -1,4 +1,4 @@
-package com.mum.algortithms.lab2;
+package com.mum.algorithms.lab2;
 
 import java.util.*;
 
